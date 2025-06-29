@@ -28,7 +28,7 @@ A comprehensive stock evaluation platform that analyzes shares using a refined 1
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/19th-hole-share-evaluator.git
+git clone https://github.com/rossmandeville/19th-hole-share-evaluator.git
 cd 19th-hole-share-evaluator
 ```
 
